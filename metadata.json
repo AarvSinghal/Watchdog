@@ -1,0 +1,6 @@
+{
+  "name": "Watchdog",
+  "description": "One tracker for anything on the web. Real-time web agent monitor, smart diff alerts, price tracking, and deadline calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
